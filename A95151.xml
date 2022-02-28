@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of a late victorie obtained by Sir Ralph Hopton against my Lord of Stamfords forces in Cornwall. Which (through the mercifulnesse of the Generall Sir Ralph Hopton) was gotten with little blood-shed. The like victory cannot be paralleld in the memory of man. Being the copy of a letter written from Saltash by a Very impartiall hand, dated the 24. of this present Ian. 1642. which many other letters that came by the same post (no doubt) will confirm.</title>
+            <author>Very impartiall hand.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95151</idno>
+            <idno type="STC">Wing T2886</idno>
+            <idno type="STC">Thomason E86_26</idno>
+            <idno type="EEBO-CITATION">99872552</idno>
+            <idno type="PROQUEST">99872552</idno>
+            <idno type="VID">124991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124991)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 15:E86[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of a late victorie obtained by Sir Ralph Hopton against my Lord of Stamfords forces in Cornwall. Which (through the mercifulnesse of the Generall Sir Ralph Hopton) was gotten with little blood-shed. The like victory cannot be paralleld in the memory of man. Being the copy of a letter written from Saltash by a Very impartiall hand, dated the 24. of this present Ian. 1642. which many other letters that came by the same post (no doubt) will confirm.</title>
+                  <author>Very impartiall hand.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties speciall command at Oxford, Ian. 28. 1642. By Leonard Lichfield Printer to the Universitie,</publisher>
+                  <pubPlace>[Oxford] :</pubPlace>
+                  <date>[Ian. 28. 1642, i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hopton, Ralph Hopton, --  Baron, 1598-1652 --  Early works to 1800.</term>
+               <term>Stamford, Henry Grey, --  Earl of, 1599?-1673 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Saltash (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124991:1"/>
+            <pb facs="tcp:124991:1" rendition="simple:additions"/>
+            <p>A True RELATION of a late VICTORIE Obtained By Sir <hi>RALPH HOPTON</hi> Againſt My Lord of STAMFORDS Forces in <hi>Cornwall.</hi>
+            </p>
+            <p>Which (through the mercifulneſſe of the Generall Sir RALPH HOPTON) was gotten with little blood-ſhed.</p>
+            <p>The like Victory cannot be paralleld in the memory of Man.</p>
+            <p>Being the Copy of a Letter written from <hi>Salt-Aſh</hi> by a very impartiall hand, Dated the 24. of this preſent <hi>Ian.</hi> 1642. which many other Letters that came by the ſame Poſt (no doubt) will confirm.</p>
+            <p>Printed by His Majeſties ſpeciall Command at <hi>Oxford, Ian.</hi> 28. 1642.</p>
+            <p>By <hi>Leonard Lichfield</hi> Printer to the Univerſitie.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:124991:2"/>
+            <pb n="3" facs="tcp:124991:2"/>
+            <head>A true Relation of a late Victory obtained by Sir <hi>RALPH HOPTON</hi> Againſt My Lord of <hi>Stamfords</hi> Forces in Cornwall; Which (through the mercifulneſſe of the Gene<g ref="char:EOLhyphen"/>rall Sir <hi>Ralph Hopton</hi> was gotten with little blood-ſhed.</head>
+            <head type="sub">The like Victory cannot be paralleld in the memory of Man.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Doe not make it my profeſſion to write Newes, but that this extraordinarie unexpected acci<g ref="char:EOLhyphen"/>dent gives mee occaſion: I doubt not but you will have it at <hi>Oxford</hi> from other Pens then mine, for
+<pb n="4" facs="tcp:124991:3"/>indeed I could have wiſhed I had not had occaſion, but truths which are ſo perſpicuous cannot be hid: therefore I will (without further circumſtance) come in briefe to the buſineſſe it ſelfe.</p>
+            <p>This weeke my Lord of <hi>Stam<g ref="char:EOLhyphen"/>fords</hi> Forces under Colonell <hi>Ru<g ref="char:EOLhyphen"/>then</hi> came out of <hi>Devon,</hi> to ſeeke out Sir <hi>Ralph Hoptons</hi> Army, and give him battell: it ſeems the De<g ref="char:EOLhyphen"/>fendant had ſome advantage of the Aſſailants, as by that which followes will appeare.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb n="5" facs="tcp:124991:3"/>
+                  <opener>
+                     <dateline>Salt-Aſh <hi>in</hi> Cornwall, <date>Ianuary <hi>24. 1642.</hi>
+                        </date>
+                     </dateline>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">F</seg>Or confiding Newes, take this for truth, that Sir <hi>Ralph Hopton</hi> with his ſtout <hi>Corniſh</hi> blades, hath given the Lord of <hi>Stamford</hi> his Forces a totall overthrow: hee tooke from them all their Armes, Baggage, Munition, and Ordnance, amongſt which was a Braſſe peece of foureteene foot long,
+<pb n="6" facs="tcp:124991:4"/>with the Roſe and Crowne engraven on it, and hath taken to the value of ten thouſand pounds, moſt of it was taken up in <hi>Devon</hi> upon the publique Faith, with fifteen hundred priſoners, amongſt whom is Sir <hi>Shitton Calmado,</hi> with many Commanders, and ſome eighteene Enſignes, <hi>Ruthen</hi> fled for his life and liberty, with much adoe got over <hi>Salt-Aſh</hi> paſſage, in a ſmall Boat, the reſt that eſcaped report, that Sir <hi>Ralph Hopton</hi> is a moſt mercifull com<g ref="char:EOLhyphen"/>mander, for otherwiſe every mothers fonne had periſhed; Sir <hi>Ralph</hi> loſt but two men: the like defeat was never knowne nor heard of.</p>
+                  <p>On Sunday laſt, to cleare the Land of mercy (for ſo thoſe that are eſcaped terme <hi>Cornwall</hi>) of the Militia Forces, Sir <hi>Ralph</hi> with a ſmall party marched
+<pb n="7" facs="tcp:124991:4"/>towards <hi>Salt-Aſh,</hi> wherein were three hundred Militia men, and ten peeces of Ordnance, he beat them from their Ord<g ref="char:EOLhyphen"/>nance, entred the Towne, drove them to the Sea ſide, where about one hun<g ref="char:EOLhyphen"/>dred did rather chooſe drowning then killing; of which three hundred but for<g ref="char:EOLhyphen"/>ty eſcaped. After that, Sir <hi>Ralph,</hi> who was ſtill in the front, tooke a luſty Ship, that rode in the river neere <hi>Salt-Aſh,</hi> to aſsiſt the Towne againſt the <hi>Corniſh,</hi> in which was ſixteene good Guns, with much Ammunition and proviſion; ſo that now <hi>Cornwall</hi> hath cleared it ſelfe of the Militia Forces, and ſtrongly for<g ref="char:EOLhyphen"/>tified all its frontier Townes.</p>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
